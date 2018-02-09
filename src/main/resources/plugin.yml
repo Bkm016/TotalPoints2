@@ -1,0 +1,10 @@
+name: TotalPoints2
+main: me.skymc.totalpoints.Main
+version: {$VERSION}
+
+loadbefore: [PlayerPoints]
+
+commands:
+  totalpoints:
+    aliases: [ljcz]
+    

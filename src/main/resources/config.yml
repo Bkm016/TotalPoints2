@@ -1,0 +1,21 @@
+# 数据库
+MySQL:
+  url: '127.0.0.1'
+  port: 3306
+  user: root
+  password: ''
+  database: test
+  table: totalpoints
+
+# 插件设定
+Settings:
+  # 刷新时间（单位：秒）
+  update: 10
+  # 重置时间
+  reset: '23:59'
+
+# 累计设定
+Totals:
+  1000: 100
+  2000: 100
+  5000: 100

@@ -1,0 +1,4 @@
+POINTS-NOTIFY: '&e已达成 &6$points &e点券累计目标, 输入 &6/ljcz &e来领取吧!'
+POINTS-REWARD: '&e已达成 &6$points &e点券累计目标, 获得 &6$reward &e点券奖励!'
+POINTS-EMPTY: '&4没有可领取的点券奖励'
+RESET-BROADCAST: '&e累计充值已刷新'
